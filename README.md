@@ -1,6 +1,6 @@
-# Edahabia-interactive-paycard-Angular
+# Edahabia-interactive-paycard-Angular 💳💳
 
-I developed this library using Angular, for making  customizable animated payment card with payment. submission form .The demo i provided is a redesign of The Algerian payment card EDAHABIA.
+🎉 I developed this library using Angular, for making  customizable animated payment card with payment. submission form .The demo i provided is a redesign of The Algerian payment card EDAHABIA 💳.
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) ![GitHub repo size](https://img.shields.io/github/repo-size/raaaouf/Edahabia-interactive-paycard-Angular?color=yellow&label=size&logo=size?style=flat-square) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![Top Language ](https://img.shields.io/github/languages/top/raaaouf/Edahabia-interactive-paycard-Angular?color=purple)
 
@@ -10,14 +10,15 @@ I developed this library using Angular, for making  customizable animated paymen
   <img src="edahabia-paycard-demo.gif" alt="Demo gif"/>
 </p>
 
-## Using the library
-The library is published in Angular package format on in the global registry of `npmjs`. To install the library run in the consumer project following command:
+## Using the library 📙
+
+📙 The library is published in Angular package format on in the global registry of `npmjs`. To install the library run in the consumer project following command:
 
 
 a redesign of EDAHABIA payment form using this library can be found in the `ngx-interactive-paycard-demo` folder in this repository.
 
 
-## Install
+## Install 💯
 
 To install the dependencies of the workspace run
 
@@ -30,9 +31,9 @@ To start the library and the demo project in watch mode run
 ```bash
 npm run watch:all
 ```
-
 The demo of the library will be reachable on `http://localhost:4200`.
-## Contributing
+
+## Contributing 🙌
 ### Step 2
 - **give me a star! 🌟**🌟 
 

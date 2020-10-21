@@ -11,7 +11,7 @@ export class AppComponent {
   cardNumberFormat = '#### #### #### ####';
   cardNumberMask = '#### **** **** ***#';
 
-
+ 
   onSubmitEvent($event) {
     console.log($event);
   }

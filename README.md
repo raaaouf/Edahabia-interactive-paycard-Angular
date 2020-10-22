@@ -30,7 +30,7 @@ npm run watch:all
 The demo of the library will be reachable on `http://localhost:4200`.
 
 ## Contributing 🙌
-### Step 2
+### Step 1
 - **give me a star! 🌟**🌟 
 
 ### Step 2

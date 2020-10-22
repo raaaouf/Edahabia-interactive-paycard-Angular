@@ -10,13 +10,12 @@
 
 ## Using the library 📙
 
-📙 The library is published in Angular package format on in the global registry of `npmjs`. To install the library run in the consumer project following command:
+ The library is published in Angular package format on in the global registry of `npmjs`. To install the library run in the consumer project following command:
+
+a redesign of EDAHABIA payment form using this library can be found in the `ngx-interactive-paycard-demo` folder in this repository 💯.
 
 
-a redesign of EDAHABIA payment form using this library can be found in the `ngx-interactive-paycard-demo` folder in this repository.
-
-
-## Install 💯
+## Install 🚀
 
 To install the dependencies of the workspace run
 
@@ -46,11 +45,11 @@ The demo of the library will be reachable on `http://localhost:4200`.
 - **HACK AWAY!** 🔨🔨🔨
 
 
-## References
+## References 📝
 This project is inspired by [vue-interactive-paycard](https://github.com/muhammederdem/vue-interactive-paycard).
 The goal of this project is to have an Angular alternative for the original vue based version.
 
-## License
+## License 📝
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 - Copyright 2020 © Raouf Zoghbi.

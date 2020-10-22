@@ -4,8 +4,6 @@
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) ![GitHub repo size](https://img.shields.io/github/repo-size/raaaouf/Edahabia-interactive-paycard-Angular?color=yellow&label=size&logo=size?style=flat-square) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![Top Language ](https://img.shields.io/github/languages/top/raaaouf/Edahabia-interactive-paycard-Angular?color=purple)
 
-[See live demo here.](https://ngx-interactive-paycard.netlify.app/)
-
 <p align="center">
   <img src="edahabia-paycard-demo.gif" alt="Demo gif"/>
 </p>

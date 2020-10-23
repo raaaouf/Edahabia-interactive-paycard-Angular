@@ -2,7 +2,31 @@
 
 🎉 I developed this library using Angular, for making  customizable animated payment card with payment. submission form .The demo i provided is a redesign of The Algerian payment website checkout of the card EDAHABIA 💳.
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) ![GitHub repo size](https://img.shields.io/github/repo-size/raaaouf/Edahabia-interactive-paycard-Angular?color=yellow&label=size&logo=size?style=flat-square) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![Top Language ](https://img.shields.io/github/languages/top/raaaouf/Edahabia-interactive-paycard-Angular?color=purple)
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
+  
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raaaouf/Edahabia-interactive-paycard-Angular?color=%237159c1">
+  
+
+  <img alt="Made by raaaouf " src="https://img.shields.io/badge/made%20by-raaaouf-%237159c1">
+  
+    
+  <img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg">
+  
+  
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/raaaouf/Edahabia-interactive-paycard-Angular?color=yellow&label=size&logo=size">
+  
+  <img alt="Gem Version" src="http://img.shields.io/gem/v/badgerbadgerbadger.svg">
+  
+  
+  <img alt="Open Source Love svg2" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
+  
+
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/raaaouf/Edahabia-interactive-paycard-Angular?color=purple">
+</p>
+
 
 <p align="center">
   <img src="edahabia-paycard-demo.gif" alt="Demo gif"/>
@@ -52,3 +76,7 @@ The goal of this project is to have an Angular alternative for the original vue 
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 - Copyright 2020 © Raouf Zoghbi.
+
+<h4 align="center">
+<a href="http://linkedin.com/in/leonardoalmeida99">Connect me in LinkedIn </a> | <a href="https://medium.com/@raaaaouf">See my Medium </a>👀 | <a href=" ">Click here to go to my CV</a>
+</h4>

@@ -78,5 +78,5 @@ The goal of this project is to have an Angular alternative for the original vue 
 - Copyright 2020 © Raouf Zoghbi.
 
 <h4 align="center">
-<a href="http://linkedin.com/in/leonardoalmeida99">Connect me in LinkedIn </a> | <a href="https://medium.com/@raaaaouf">See my Medium </a>👀 | <a href=" ">Click here to go to my CV</a>
+<a href="http://linkedin.com/in/raoufzoghbi">Connect me in LinkedIn </a> | <a href="https://medium.com/@raaaaouf">See my Medium </a>👀 | <a href=" ">Click here to go to my CV</a>
 </h4>

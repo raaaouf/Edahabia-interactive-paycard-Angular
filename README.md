@@ -7,7 +7,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%237159c1">
   
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raaaouf/Edahabia-interactive-paycard-Angular?color=%237159c1">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/raaaouf/Edahabia-interactive-paycard-Angular?color=red">
   
 
   <img alt="Made by raaaouf " src="https://img.shields.io/badge/made%20by-raaaouf-%237159c1">

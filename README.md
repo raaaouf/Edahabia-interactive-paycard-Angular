@@ -24,7 +24,7 @@
   <img alt="Open Source Love svg2" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103">
   
 
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/raaaouf/Edahabia-interactive-paycard-Angular?color=purple">
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/raaaouf/Edahabia-interactive-paycard-Angular?color=red">
 </p>
 
 
